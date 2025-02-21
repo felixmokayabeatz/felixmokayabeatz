@@ -11,7 +11,7 @@
 [![BeatStars](https://img.shields.io/badge/BeatStars-%23FF0000.svg?&style=for-the-badge&logo=musicbrainz&logoColor=white)](https://www.beatstars.com/felixmokayabeatz)  
 
 🌍 **Visit my website:**  
-[![Website](https://img.shields.io/badge/My%20Website-%23000000.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://felixmokayabeatz.pythonanywhere.com)  
+[![Website](https://img.shields.io/badge/My%20Website-%23000000.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://felixmokayabeatz.com)  
 
 ☕ **Support Me on Ko-Fi:**  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/felixmokayabeatz)
