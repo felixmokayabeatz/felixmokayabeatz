@@ -6,14 +6,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felixmokayabeatz&theme=radical) 
-
-
-📲 **Connect with me:**  
+[📲 **Connect with me:**  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felixmokayabtz)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixmokayabeatz)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felixmokayabeatz)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felixmokayabeatz)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felixmokayabeatz) ](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) 
 
 🎧 **Check out my beats:**  
 [![BeatStars](https://img.shields.io/badge/BeatStars-%23FF0000.svg?&style=for-the-badge&logo=musicbrainz&logoColor=white)](https://www.beatstars.com/felixmokayabeatz)  
