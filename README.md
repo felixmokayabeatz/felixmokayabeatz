@@ -10,16 +10,16 @@
 
 <p align="center">
   <a href="https://twitter.com/felixmokayabtz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%23ff428d?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/felixmokayabeatz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23ff428d?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/felixmokayabeatz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23ff428d?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@felixmokayabeatz">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-%23ff428d?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://www.beatstars.com/felixmokayabeatz">
-    <img src="https://img.shields.io/badge/BeatStars-FF0000?style=for-the-badge&logo=beats&logoColor=white"/>
+    <img src="https://img.shields.io/badge/BeatStars-%23ff428d?style=for-the-badge&logo=beatsbydre&logoColor=white"/>
   </a>
 </p>
 
@@ -39,9 +39,20 @@
 
 <p align="center">
   <a href="https://felixmokayabeatz.com">
-    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/My%20Website-%23ff428d?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## ☕ Support Me  
+
+<p align="center">
+  <a href="https://ko-fi.com/felixmokayabeatz">
+    <img src="https://img.shields.io/badge/Ko--fi-%23ff428d?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
