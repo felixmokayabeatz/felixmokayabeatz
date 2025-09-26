@@ -2,7 +2,7 @@
 🎵 I make beats in Ableton Live | 🤖 AI & ML Enthusiast | 🐍 Django Lover | 💻 Web Developer (kinda)  
 ## 📊 GitHub Stats  
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmokayabeatz&show_icons=true&theme=radical)  
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmokayabeatz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixmokayabeatz&layout=compact&theme=radical)  
 
