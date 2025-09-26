@@ -4,23 +4,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)
 
-## 📲 Connect with me  
-
-<p align="center">
-  <a href="https://twitter.com/felixmokayabtz">
-    <img src="https://img.shields.io/badge/Twitter-%23ff428d?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/felixmokayabeatz">
-    <img src="https://img.shields.io/badge/LinkedIn-%23ff428d?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/felixmokayabeatz">
-    <img src="https://img.shields.io/badge/Instagram-%23ff428d?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@felixmokayabeatz">
-    <img src="https://img.shields.io/badge/YouTube-%23ff428d?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🎧 Check out my beats  
