@@ -33,7 +33,6 @@
   </a>
 </p>
 
----
 
 ## 🌍 Visit my website  
 
@@ -43,8 +42,6 @@
   </a>
 </p>
 
----
-
 ## ☕ Support Me  
 
 <p align="center">
@@ -53,13 +50,3 @@
   </a>
 </p>
 
-
----
-
-## ☕ Support Me  
-
-<p align="center">
-  <a href="https://ko-fi.com/felixmokayabeatz">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-</p>
