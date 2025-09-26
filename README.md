@@ -1,5 +1,15 @@
 # 👋 Hey, I'm Felix Mokaya!  
 🎵 I make beats in Ableton Live | 🤖 AI & ML Enthusiast | 🐍 Django Lover | 💻 Web Developer (kinda)  
+## 📊 GitHub Stats  
+
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmokayabeatz&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixmokayabeatz&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felixmokayabeatz&theme=radical) 
+
 
 📲 **Connect with me:**  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felixmokayabtz)  
