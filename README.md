@@ -6,17 +6,49 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)  
  
-📲 **Connect with me:**  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felixmokayabtz)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixmokayabeatz)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felixmokayabeatz)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felixmokayabeatz) 
+## 📲 Connect with me  
 
-🎧 **Check out my beats:**  
-[![BeatStars](https://img.shields.io/badge/BeatStars-%23FF0000.svg?&style=for-the-badge&logo=musicbrainz&logoColor=white)](https://www.beatstars.com/felixmokayabeatz)  
+<p align="center">
+  <a href="https://twitter.com/felixmokayabtz">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felixmokayabeatz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/felixmokayabeatz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@felixmokayabeatz">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
-🌍 **Visit my website:**  
-[![Website](https://img.shields.io/badge/My%20Website-%23000000.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://felixmokayabeatz.com)  
+---
 
-☕ **Support Me on Ko-Fi:**  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/felixmokayabeatz)
+## 🎧 Check out my beats  
+
+<p align="center">
+  <a href="https://www.beatstars.com/felixmokayabeatz">
+    <img src="https://img.shields.io/badge/BeatStars-FF0000?style=for-the-badge&logo=beats&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🌍 Visit my website  
+
+<p align="center">
+  <a href="https://felixmokayabeatz.com">
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ☕ Support Me  
+
+<p align="center">
+  <a href="https://ko-fi.com/felixmokayabeatz">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+</p>
