@@ -4,6 +4,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical&cache_seconds=0)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical&hide_border=true&background=0D1117&dates=FFFFFF&fire=FF0000&ring=FF0000&cache_seconds=0)
 ## 📲 Connect with me  
 
 <p align="center">
