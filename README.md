@@ -3,6 +3,8 @@
 ## 📊 GitHub Stats  
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixmokayabeatz&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixmokayabeatz&theme=radical&nocache=1)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)  
  
