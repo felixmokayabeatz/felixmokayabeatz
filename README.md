@@ -2,7 +2,7 @@
 🎵 I make beats in Ableton Live | 🤖 AI & ML Enthusiast | 🐍 Django Lover | 💻 Web Developer (kinda)  
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical&cache)
+![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)
 
 ## 📲 Connect with me  
 
