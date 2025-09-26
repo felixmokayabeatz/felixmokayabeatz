@@ -4,6 +4,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)
 
+
+![GitHub Stats](https://github-readme-stats.demolab.app/api?username=felixmokayabeatz&show_icons=true&theme=radical&include_all_commits=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical)
 ---
 
 ## 🎧 Check out my beats  
