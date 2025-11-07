@@ -5,8 +5,9 @@
 
 ## 📊 GitHub Stats  
 
-<img src="https://api.githubtrends.io/user/svg/felixmokayabeatz/langs?time_range=one_year&theme=light" alt="Languages" />
-<img src="https://api.githubtrends.io/user/svg/felixmokayabeatz/repos?time_range=one_year&theme=light" alt="Repositories" />
+[![Felix's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixmokayabeatz&show_icons=true)](https://github.com/felixmokayabeatz)
+
+[![GitHub Streak](https://streak-stats-phi-gilt.vercel.app/?user=felixmokayabeatz)](https://github.com/felixmokayabeatz)
 
 ## 🎧 Check out my work  
 
