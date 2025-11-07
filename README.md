@@ -5,9 +5,7 @@
 
 ## 📊 GitHub Stats  
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmokayabeatz&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixmokayabeatz&layout=compact&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz)](https://git.io/streak-stats)
 
 ## 🎧 Check out my work  
 
