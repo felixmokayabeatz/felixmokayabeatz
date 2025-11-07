@@ -10,11 +10,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=felixmokayabeatz&theme=radical&background=161622&border=4a9eff&stroke=9d4edd&ring=e0aaff&fire=4a9eff&currStreakNum=f0f0f5&sideNums=a0a0b8&currStreakLabel=4a9eff&sideLabels=9d4edd&dates=a0a0b8)
-
-## 📈 Git History
-
-![GitHub Stats Graph](https://github-readme-activity-graph.vercel.app/graph?username=felixmokayabeatz&theme=react-dark&bg_color=161622&color=e0aaff&line=9d4edd&point=4a9eff&area=true)
+[![GitHub Streak Stats](https://streak-stats.demolab.com?user=felixmokayabeatz&theme=radical&background=161622&border=4a9eff&stroke=9d4edd&ring=e0aaff&fire=4a9eff&currStreakNum=f0f0f5&sideNums=a0a0b8&currStreakLabel=4a9eff&sideLabels=9d4edd&dates=a0a0b8)](https://git.io/streak-stats)
 
 ## 🎧 Check out my work  
 
