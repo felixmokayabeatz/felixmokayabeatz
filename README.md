@@ -5,7 +5,8 @@
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz)](https://git.io/streak-stats)
+<img src="https://api.githubtrends.io/user/svg/felixmokayabeatz/langs?time_range=one_year&theme=light" alt="Languages" />
+<img src="https://api.githubtrends.io/user/svg/felixmokayabeatz/repos?time_range=one_year&theme=light" alt="Repositories" />
 
 ## 🎧 Check out my work  
 
