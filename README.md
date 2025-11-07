@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixmokayabeatz&theme=default)
 
 ## 🎧 Check out my work  
 
