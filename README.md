@@ -5,8 +5,9 @@
 
 ## 📊 GitHub Stats  
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=felixmokayabeatz&show_icons=true&count_private=true" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=felixmokayabeatz" />
+<img src="https://streak-stats.demolab.com/?user=felixmokayabeatz&theme=radical&background=161622&border=4a9eff&stroke=9d4edd&ring=e0aaff&fire=4a9eff&currStreakNum=f0f0f5&sideNums=a0a0b8&currStreakLabel=4a9eff&sideLabels=9d4edd&dates=a0a0b8" 
+    alt="GitHub Streak Stats" 
+    width="400">
 
 ## 🎧 Check out my work  
 
