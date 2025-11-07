@@ -5,9 +5,8 @@
 
 ## 📊 GitHub Stats  
 
-[![Felix's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixmokayabeatz&show_icons=true)](https://github.com/felixmokayabeatz)
-
-[![GitHub Streak](https://streak-stats-phi-gilt.vercel.app/?user=felixmokayabeatz)](https://github.com/felixmokayabeatz)
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=felixmokayabeatz&show_icons=true&count_private=true" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=felixmokayabeatz" />
 
 ## 🎧 Check out my work  
 
